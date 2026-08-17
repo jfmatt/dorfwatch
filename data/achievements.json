@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "achievements": [
+    {
+      "id": "box-2",
+      "name": "Box 2"
+    },
+    {
+      "id": "wraparound-tasks",
+      "name": "Wraparound Tasks"
+    },
+    {
+      "id": "rice-cherry-tree",
+      "name": "Rice & Cherry tree"
+    },
+    {
+      "id": "village-rice",
+      "name": "Village & Rice"
+    },
+    {
+      "id": "cherry-tree-village",
+      "name": "Cherry tree & Village"
+    },
+    {
+      "id": "temples",
+      "name": "Temples"
+    },
+    {
+      "id": "sumo-wrestler",
+      "name": "Sumo Wrestler"
+    },
+    {
+      "id": "moss-collector",
+      "name": "Moss Collector"
+    },
+    {
+      "id": "rice-farmer",
+      "name": "Rice Farmer"
+    },
+    {
+      "id": "poet",
+      "name": "Poet"
+    },
+    {
+      "id": "hermit",
+      "name": "Hermit"
+    },
+    {
+      "id": "ship-pier",
+      "name": "Ship & Pier"
+    },
+    {
+      "id": "ox-cart-trading-post",
+      "name": "Ox Cart & Trading Post"
+    },
+    {
+      "id": "daimyo",
+      "name": "Daimyo"
+    },
+    {
+      "id": "calligrapher",
+      "name": "Calligrapher"
+    },
+    {
+      "id": "observatory",
+      "name": "Observatory"
+    },
+    {
+      "id": "colorful-flag",
+      "name": "Colorful flag"
+    },
+    {
+      "id": "small-clouds",
+      "name": "Small clouds"
+    },
+    {
+      "id": "hot-springs",
+      "name": "Hot springs"
+    },
+    {
+      "id": "crossroads",
+      "name": "Crossroads"
+    },
+    {
+      "id": "lake",
+      "name": "Lake"
+    },
+    {
+      "id": "cartographer",
+      "name": "Cartographer"
+    },
+    {
+      "id": "mt-fuji",
+      "name": "Mt. Fuji"
+    }
+  ]
+}

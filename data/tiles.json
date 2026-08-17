@@ -1,0 +1,943 @@
+{
+  "version": 1,
+  "tiles": [
+    {
+      "id": "task-road-1",
+      "kind": "task",
+      "task": "road",
+      "edges": "rrmppm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-road-2",
+      "kind": "task",
+      "task": "road",
+      "edges": "rmrmmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-road-3",
+      "kind": "task",
+      "task": "road",
+      "edges": "rmirim",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-road-4",
+      "kind": "task",
+      "task": "road",
+      "edges": "rmrimi",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-road-5",
+      "kind": "task",
+      "task": "road",
+      "edges": "rrmggm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-road-6",
+      "kind": "task",
+      "task": "road",
+      "edges": "rmmrmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-river-1",
+      "kind": "task",
+      "task": "river",
+      "edges": "immimm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-river-2",
+      "kind": "task",
+      "task": "river",
+      "edges": "irmimr",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-river-3",
+      "kind": "task",
+      "task": "river",
+      "edges": "iimvvm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-river-4",
+      "kind": "task",
+      "task": "river",
+      "edges": "imimmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-river-5",
+      "kind": "task",
+      "task": "river",
+      "edges": "imivvv",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-river-6",
+      "kind": "task",
+      "task": "river",
+      "edges": "iimrrm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-rice-1",
+      "kind": "task",
+      "task": "rice",
+      "edges": "gmmgmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-rice-2",
+      "kind": "task",
+      "task": "rice",
+      "edges": "gggggg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-rice-3",
+      "kind": "task",
+      "task": "rice",
+      "edges": "ggmmmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-rice-4",
+      "kind": "task",
+      "task": "rice",
+      "edges": "ggmppm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-rice-5",
+      "kind": "task",
+      "task": "rice",
+      "edges": "gggmvm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-rice-6",
+      "kind": "task",
+      "task": "rice",
+      "edges": "ggggii",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-sakura-1",
+      "kind": "task",
+      "task": "sakura",
+      "edges": "ppmmmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-sakura-2",
+      "kind": "task",
+      "task": "sakura",
+      "edges": "ppmvvm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-sakura-3",
+      "kind": "task",
+      "task": "sakura",
+      "edges": "pppppp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-sakura-4",
+      "kind": "task",
+      "task": "sakura",
+      "edges": "pmmpmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-sakura-5",
+      "kind": "task",
+      "task": "sakura",
+      "edges": "pppmgm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-sakura-6",
+      "kind": "task",
+      "task": "sakura",
+      "edges": "ppppii",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-village-1",
+      "kind": "task",
+      "task": "village",
+      "edges": "vvmggm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-village-2",
+      "kind": "task",
+      "task": "village",
+      "edges": "vmmvmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-village-3",
+      "kind": "task",
+      "task": "village",
+      "edges": "vvvmpm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-village-4",
+      "kind": "task",
+      "task": "village",
+      "edges": "vvmmmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-village-5",
+      "kind": "task",
+      "task": "village",
+      "edges": "vvvvvv",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "task-village-6",
+      "kind": "task",
+      "task": "village",
+      "edges": "vvvvrr",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-001",
+      "kind": "landscape",
+      "edges": "1mvvmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-002",
+      "kind": "landscape",
+      "edges": "2mggmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-003",
+      "kind": "landscape",
+      "edges": "3mppmm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-004",
+      "kind": "landscape",
+      "edges": "imvigg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-005",
+      "kind": "landscape",
+      "edges": "imgipp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-006",
+      "kind": "landscape",
+      "edges": "impivv",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-007",
+      "kind": "landscape",
+      "edges": "rmvrpp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-008",
+      "kind": "landscape",
+      "edges": "rmgrvv",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-009",
+      "kind": "landscape",
+      "edges": "iimggm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-010",
+      "kind": "landscape",
+      "edges": "imiggg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-011",
+      "kind": "landscape",
+      "edges": "imippp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-012",
+      "kind": "landscape",
+      "edges": "pppggg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-013",
+      "kind": "landscape",
+      "edges": "vvvggg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-014",
+      "kind": "landscape",
+      "edges": "vvvppp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-015",
+      "kind": "landscape",
+      "edges": "rmprgg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-016",
+      "kind": "landscape",
+      "edges": "vvppgg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-017",
+      "kind": "landscape",
+      "edges": "vvggpp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-018",
+      "kind": "landscape",
+      "edges": "vmvmvm",
+      "blossom": "v",
+      "copies": 1
+    },
+    {
+      "id": "land-019",
+      "kind": "landscape",
+      "edges": "vvvvii",
+      "blossom": "v",
+      "copies": 1
+    },
+    {
+      "id": "land-020",
+      "kind": "landscape",
+      "edges": "vvvmpm",
+      "blossom": "v",
+      "copies": 1
+    },
+    {
+      "id": "land-021",
+      "kind": "landscape",
+      "edges": "pmpmpm",
+      "blossom": "p",
+      "copies": 1
+    },
+    {
+      "id": "land-022",
+      "kind": "landscape",
+      "edges": "pppmgm",
+      "blossom": "p",
+      "copies": 1
+    },
+    {
+      "id": "land-023",
+      "kind": "landscape",
+      "edges": "pppprr",
+      "blossom": "p",
+      "copies": 1
+    },
+    {
+      "id": "land-024",
+      "kind": "landscape",
+      "edges": "gmgmgm",
+      "blossom": "g",
+      "copies": 1
+    },
+    {
+      "id": "land-025",
+      "kind": "landscape",
+      "edges": "gggmvm",
+      "blossom": "g",
+      "copies": 1
+    },
+    {
+      "id": "land-026",
+      "kind": "landscape",
+      "edges": "ggggrr",
+      "blossom": "g",
+      "copies": 1
+    },
+    {
+      "id": "land-027",
+      "kind": "landscape",
+      "edges": "rmrppp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-028",
+      "kind": "landscape",
+      "edges": "rmrggg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-029",
+      "kind": "landscape",
+      "edges": "rmrvvv",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-030",
+      "kind": "landscape",
+      "edges": "rrmvvm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-031",
+      "kind": "landscape",
+      "edges": "iimppm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-032",
+      "kind": "landscape",
+      "edges": "ipmigg",
+      "blossom": "i",
+      "copies": 1
+    },
+    {
+      "id": "land-033",
+      "kind": "landscape",
+      "edges": "ivmipp",
+      "blossom": "i",
+      "copies": 1
+    },
+    {
+      "id": "land-034",
+      "kind": "landscape",
+      "edges": "igmivv",
+      "blossom": "i",
+      "copies": 1
+    },
+    {
+      "id": "land-035",
+      "kind": "landscape",
+      "edges": "rgmrpp",
+      "blossom": "r",
+      "copies": 1
+    },
+    {
+      "id": "land-036",
+      "kind": "landscape",
+      "edges": "rvmrgg",
+      "blossom": "r",
+      "copies": 1
+    },
+    {
+      "id": "land-037",
+      "kind": "landscape",
+      "edges": "rpmrvv",
+      "blossom": "r",
+      "copies": 1
+    },
+    {
+      "id": "land-038",
+      "kind": "landscape",
+      "edges": "iggmpp",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-039",
+      "kind": "landscape",
+      "edges": "ippmvv",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-040",
+      "kind": "landscape",
+      "edges": "rvvmgg",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-041",
+      "kind": "landscape",
+      "edges": "vvvvvm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-042",
+      "kind": "landscape",
+      "edges": "gggggm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "land-043",
+      "kind": "landscape",
+      "edges": "pppppm",
+      "blossom": "",
+      "copies": 1
+    },
+    {
+      "id": "unlock-01",
+      "kind": "landscape",
+      "edges": "1mmggm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "box-2"
+    },
+    {
+      "id": "unlock-02",
+      "kind": "landscape",
+      "edges": "2mmppm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "box-2"
+    },
+    {
+      "id": "unlock-03",
+      "kind": "landscape",
+      "edges": "3mmvvm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "box-2"
+    },
+    {
+      "id": "task-surround-01",
+      "kind": "task",
+      "task": "surround",
+      "edges": "impppm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "wraparound-tasks"
+    },
+    {
+      "id": "task-surround-02",
+      "kind": "task",
+      "task": "surround",
+      "edges": "imvvvm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "wraparound-tasks"
+    },
+    {
+      "id": "task-surround-03",
+      "kind": "task",
+      "task": "surround",
+      "edges": "imgggm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "wraparound-tasks"
+    },
+    {
+      "id": "task-surround-04",
+      "kind": "task",
+      "task": "surround",
+      "edges": "rmpppm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "wraparound-tasks"
+    },
+    {
+      "id": "task-surround-05",
+      "kind": "task",
+      "task": "surround",
+      "edges": "rmvvvm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "wraparound-tasks"
+    },
+    {
+      "id": "task-surround-06",
+      "kind": "task",
+      "task": "surround",
+      "edges": "rmgggm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "wraparound-tasks"
+    },
+    {
+      "id": "task-7-01",
+      "kind": "task",
+      "task": "special-7",
+      "edges": "hmpmgm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "rice-cherry-tree",
+      "alsoTasks": [
+        "rice",
+        "sakura"
+      ]
+    },
+    {
+      "id": "task-7-02",
+      "kind": "task",
+      "task": "special-7",
+      "edges": "hmgmvm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "village-rice",
+      "alsoTasks": [
+        "village",
+        "rice"
+      ]
+    },
+    {
+      "id": "task-7-03",
+      "kind": "task",
+      "task": "special-7",
+      "edges": "hmvmpm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "cherry-tree-village",
+      "alsoTasks": [
+        "sakura",
+        "village"
+      ]
+    },
+    {
+      "id": "temple-01",
+      "kind": "temple",
+      "edges": "vmgmgm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "temples"
+    },
+    {
+      "id": "temple-02",
+      "kind": "temple",
+      "edges": "gmpmpm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "temples"
+    },
+    {
+      "id": "temple-03",
+      "kind": "temple",
+      "edges": "pmvmvm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "temples"
+    },
+    {
+      "id": "special-01",
+      "kind": "landscape",
+      "name": "Sumo Wrestler",
+      "edges": "vvvvvv",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "sumo-wrestler",
+      "special": true,
+      "tags": [
+        "match-bonus"
+      ]
+    },
+    {
+      "id": "special-02",
+      "kind": "landscape",
+      "name": "Moss Collector",
+      "edges": "pppppp",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "moss-collector",
+      "special": true,
+      "tags": [
+        "match-bonus"
+      ]
+    },
+    {
+      "id": "special-03",
+      "kind": "landscape",
+      "name": "Rice Farmer",
+      "edges": "gggggg",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "rice-farmer",
+      "special": true,
+      "tags": [
+        "match-bonus"
+      ]
+    },
+    {
+      "id": "special-04",
+      "kind": "landscape",
+      "name": "Poet",
+      "edges": "mmmmcc",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "poet",
+      "special": true,
+      "tags": [
+        "match-bonus"
+      ]
+    },
+    {
+      "id": "special-05",
+      "kind": "landscape",
+      "name": "Hermit",
+      "edges": "hmmmmm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "hermit",
+      "special": true,
+      "tags": [
+        "match-bonus"
+      ]
+    },
+    {
+      "id": "special-06",
+      "kind": "landscape",
+      "name": "Ship & Pier",
+      "edges": "impigg",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "ship-pier",
+      "special": true,
+      "tags": [
+        "distance"
+      ]
+    },
+    {
+      "id": "special-07",
+      "kind": "landscape",
+      "name": "Ship & Pier",
+      "edges": "ipmivv",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "ship-pier",
+      "special": true,
+      "tags": [
+        "distance"
+      ]
+    },
+    {
+      "id": "special-08",
+      "kind": "landscape",
+      "name": "Ox Cart & Trading Post",
+      "edges": "rmgrvv",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "ox-cart-trading-post",
+      "special": true,
+      "tags": [
+        "distance"
+      ]
+    },
+    {
+      "id": "special-09",
+      "kind": "landscape",
+      "name": "Ox Cart & Trading Post",
+      "edges": "rpprgm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "ox-cart-trading-post",
+      "special": true,
+      "tags": [
+        "distance"
+      ]
+    },
+    {
+      "id": "special-10",
+      "kind": "landscape",
+      "name": "Daimyo",
+      "edges": "immmmm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "daimyo",
+      "special": true,
+      "tags": [
+        "finish-task"
+      ]
+    },
+    {
+      "id": "special-11",
+      "kind": "landscape",
+      "name": "Calligrapher",
+      "edges": "rrmvmm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "calligrapher",
+      "special": true,
+      "tags": [
+        "campaign"
+      ]
+    },
+    {
+      "id": "special-12",
+      "kind": "landscape",
+      "name": "Observatory",
+      "edges": "pmvmgm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "observatory",
+      "special": true,
+      "tags": [
+        "loves-flags"
+      ]
+    },
+    {
+      "id": "special-13",
+      "kind": "landscape",
+      "name": "Colorful flag",
+      "edges": "4iimrm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "colorful-flag",
+      "special": true
+    },
+    {
+      "id": "special-14",
+      "kind": "landscape",
+      "name": "Small clouds",
+      "edges": "ccmccm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "small-clouds",
+      "special": true
+    },
+    {
+      "id": "special-15",
+      "kind": "landscape",
+      "name": "Hot springs",
+      "edges": "hmvppm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "hot-springs",
+      "special": true
+    },
+    {
+      "id": "special-16",
+      "kind": "landscape",
+      "name": "Hot springs",
+      "edges": "hmggvm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "hot-springs",
+      "special": true
+    },
+    {
+      "id": "special-17",
+      "kind": "landscape",
+      "name": "Crossroads",
+      "edges": "rmrrmm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "crossroads",
+      "special": true
+    },
+    {
+      "id": "special-18",
+      "kind": "landscape",
+      "name": "Lake",
+      "edges": "iimimm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "lake",
+      "special": true
+    },
+    {
+      "id": "special-19",
+      "kind": "landscape",
+      "name": "Cartographer",
+      "edges": "vmpmgm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "cartographer",
+      "special": true
+    },
+    {
+      "id": "special-20",
+      "kind": "landscape",
+      "name": "Mt. Fuji",
+      "edges": "1pmjjm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "mt-fuji",
+      "special": true
+    },
+    {
+      "id": "special-21",
+      "kind": "landscape",
+      "name": "Mt. Fuji",
+      "edges": "2vmjjm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "mt-fuji",
+      "special": true
+    },
+    {
+      "id": "special-22",
+      "kind": "landscape",
+      "name": "Mt. Fuji",
+      "edges": "3gmjjm",
+      "blossom": "",
+      "copies": 1,
+      "unlock": "mt-fuji",
+      "special": true
+    }
+  ]
+}

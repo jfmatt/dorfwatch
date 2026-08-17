@@ -1,0 +1,5 @@
+# Campaign saves are personal state, not source.
+/saves/
+
+# Built binary.
+/dorfwatch

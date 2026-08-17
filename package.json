@@ -1,0 +1,9 @@
+{
+  "name": "dorfwatch",
+  "private": true,
+  "type": "module",
+  "description": "Marks web/js as ES modules and hosts the client-side tests. No dependencies, no build step.",
+  "scripts": {
+    "test": "node --test \"jstest/**/*.test.js\""
+  }
+}
