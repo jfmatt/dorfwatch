@@ -2,7 +2,7 @@
 
 This web application is a helper for playing Dorfromantik: Sakura. It keeps track of the tiles that have been played, and allows querying the set left by various properties.
 
-![The game screen: recording a drawn tile, the temple board, the task value bags, and a search of the tiles still in the bag](docs/screenshot.png)
+![The game screen mid-campaign. The search box holds "i..i", so every result is a tile whose river runs straight through; beside it are the draw box, the temple board with three tiles still face down, and the task value bags with drawn tokens leaving gaps.](docs/screenshot.png)
 
 ## Usage
 
