@@ -2,7 +2,7 @@
 //
 // A query is read as an edge pattern when every character is a feature or the
 // '.' wildcard, and as a tile-name substring otherwise. When it reads as both,
-// results are the union — so "daimyo" finds the named tile and "r.r" finds
+// results are the union — so "daimyo" finds the named tile and "i.i" finds
 // gentle river curves.
 
 import {

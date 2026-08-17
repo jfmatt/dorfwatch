@@ -1062,7 +1062,7 @@ function searchPanel() {
 			type: 'search',
 			autocomplete: 'off',
 			spellcheck: 'false',
-			placeholder: 'r.r, or a tile name like daimyo',
+			placeholder: 'i.i, a name like daimyo, or several terms',
 			'aria-label': 'Search tiles',
 			value: ui.filters.query,
 			oninput: (e) => {
