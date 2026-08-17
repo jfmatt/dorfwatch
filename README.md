@@ -151,3 +151,19 @@ npm test          # client: encoding, search, deck maths, rendering (uses node -
 The encoding rules are implemented on both sides — canonical rotation in `internal/tiles/tiles.go`
 and `web/js/encoding.js` — and both test suites cover the same cases, since the server canonicalizes
 the catalog that the client then matches against.
+
+## Regenerating the screenshot
+
+```sh
+go run .              # in another terminal
+npm run screenshot
+```
+
+`tools/screenshot.mjs` seeds a throwaway campaign that looks like a game in progress, drives headless
+Chrome over the DevTools protocol to type a search into it, captures the result, and deletes the
+campaign again. It talks to Chrome with Node's built-in `WebSocket`, so like everything else here it
+needs nothing installed — but it does need a Chrome or Edge to drive, and will find one on Linux or,
+under WSL, on the Windows side. Set `DORFWATCH_CHROME` if yours lives somewhere unusual.
+
+Chrome's own `--screenshot` flag cannot type into the page, which is why this goes through the
+protocol instead. Options: `--query`, `--out`, `--server`, `--width`, `--height`.
